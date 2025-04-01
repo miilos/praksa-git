@@ -7,3 +7,5 @@ console.log("trying out revert");
 // CODE
 // CODE
 // CODE
+
+// MERGE CONFLICT TEST
