@@ -9,3 +9,5 @@ console.log("trying out revert");
 // CODE
 
 // MERGE CONFLICT TEST
+console.log("new code");
+console.log("more new code");
